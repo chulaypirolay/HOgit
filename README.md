@@ -1,5 +1,5 @@
 # HOgit
-Esto es una prueba para modificar el README
+Esto es otra prueba para modificar el README
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
